@@ -30,11 +30,3 @@
 # Do not leave it in this file.
 
 # Now import it by name using `from`.
-
-import subdir1.subdir2.file3
-
-import subdir1.subdir2.file3 as ssf3
-
-from subdir1.subdir2.file3 import divide
-
-from subdir3.new_module import oh_my
